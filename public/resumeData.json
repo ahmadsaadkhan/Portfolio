@@ -4,7 +4,7 @@
         "occupation": "Full Stack Developer",
         "description": "",
         "image": "profilepic.jpg",
-        "bio": "I am a Full Stack web Developer and have 5+ years of experience working with international software companies. I have a bachelor’s degree in Computer Science. Since 2014, I have served as a software engineer for many organizations, where I have been repeatedly recognized for developing innovative solutions and solving problems. I was responsible for full life cycle development of next-generation software, from initial requirement gathering to design, coding, testing, documentation and implementation.My technical expertise includes cross-platform proficiency (Windows, Linux and Mac); fluency in following scripting/programming languages (including PHP, Codeigniter, LMS Moodle, JavaScript, React, Redux, React Native Next JS, Python and MYSQL); and advanced knowledge of developer applications, tools, methodologies also on Mobile development in Flutter for cross platform development in Android IOS and web.",
+        "bio": "I am a Full Stack web Developer and have 6 years of experience working with international software companies. I have a bachelor’s degree in Computer Science. Since 2014, I have served as a software engineer for many organizations, where I have been repeatedly recognized for developing innovative solutions and solving problems. I was responsible for full life cycle development of next-generation software, from initial requirement gathering to design, coding, testing, documentation and implementation.My technical expertise includes cross-platform proficiency (Windows, Linux and Mac); fluency in following scripting/programming languages (including PHP, Codeigniter, LMS Moodle, JavaScript, React, Redux, React Native Next JS, Python and MYSQL); and advanced knowledge of developer applications, tools, methodologies also on Mobile development in Flutter for cross platform development in Android IOS and web.",
         "contactmessage": "Get in touch with me",
         "email": "ahmad.saad.khn@gmail.com",
         "phone": "+966 8816392",
@@ -65,13 +65,6 @@
                 "description": "An Islamabad based startup working on education management web based application develops backend in Codeigniter and frontend in Angular JS."
             },
             {
-                "company": "OSMIS EDUCATION",
-                "location": "REMOTE",
-                "title": "PHP WEB DEVELOPER",
-                "years": "DECEMBER 2015 – MARCH 2017",
-                "description": "Worked as a remote developer for a UK based airport parking company manage their front end backend development and PayPal and World Pay payment integration."
-            },
-            {
                 "company": "DIGITECH UK",
                 "location": "REMOTE",
                 "title": "PHP WEB DEVELOPER",
@@ -82,13 +75,13 @@
                 "company": "HOME ARENA",
                 "location": "ISLAMABAD, PAKISTAN",
                 "title": "PHP WEB DEVELOPER",
-                "years": "FEBURARY 2014– NOVEMBER 2015",
+                "years": "FEBURARY 2014 – NOVEMBER 2015",
                 "description": "Started as an intern here and moved to mid - level developer position manages Ecommerce development in Magneto, website and blog development."
             }
         ],
 
         "skills": [{
-                "name": "React JS, Redux, Next JS",
+                "name": "React JS, Redux, Next JS, TypeScript",
                 "level": "90%"
             },
             {
@@ -111,7 +104,13 @@
     },
     "portfolio": {
         "projects": [{
-                "title": "Memories Project (React JS Redux Express Mongo (Mern Stack))",
+                "title": "Web 3.0 Crypto Etherum Transfer (Solidity, Smart Contract, React)",
+                "category": "",
+                "image": "crypto.png",
+                "url": "https://crypto-app-saad.netlify.app/"
+            },
+            {
+                "title": "Memories Project (React, Redux, MERN Stack)",
                 "category": "",
                 "image": "memories-project.jpg",
                 "url": "https://memories-app-saad.netlify.app/posts"
@@ -133,6 +132,18 @@
                 "category": "",
                 "image": "air-bnb.jpg",
                 "url": "https://airbnb-clone-teal-eta.vercel.app/"
+            },
+            {
+                "title": "Portfolio (React JS)",
+                "category": "",
+                "image": "portfolio-app.png",
+                "url": "https://portfolio-app-saad.netlify.app/"
+            },
+            {
+                "title": "Todo App (React JS Typescript)",
+                "category": "",
+                "image": "todo-app.png",
+                "url": "https://todo-app-saad.netlify.app/"
             }
         ]
     },

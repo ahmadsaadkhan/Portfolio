@@ -140,6 +140,12 @@
                 "url": "https://portfolio-app-saad.netlify.app/"
             },
             {
+                "title": "Portfolio App 2 (React JS, Animate.css)",
+                "category": "",
+                "image": "portfolio-app-2.png",
+                "url": "https://portfolio2-app-saad.netlify.app/"
+            },
+            {
                 "title": "Todo App (React JS Typescript)",
                 "category": "",
                 "image": "todo-app.png",
